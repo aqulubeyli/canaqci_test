@@ -16,7 +16,7 @@ div {
 
 header{
 
-    background: url(../img/header-0001.jpg) no-repeat center top / cover ;
+    background: url(../img/header-0002.jpg) no-repeat center top / cover ;
     padding-bottom: 160px;
     /* height: 600px; */
 }
@@ -88,3 +88,21 @@ h1 {
     font-size: 18px;
     margin-top: 50px;
 }
+
+.title {
+
+}
+
+.title h2 {
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.title p {
+    color: #777777;
+    text-align: center;
+    font-size: 16px;
+}
+
